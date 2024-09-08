@@ -1,0 +1,10 @@
+Pages\AddCustomer.class
+Classes\Customers.class
+Pages\Login.class
+Utils\SeleniumUtilities.class
+Pages\OpenAccount.class
+Base\PageBase.class
+Pages\Manager.class
+Utils\WaitConditions.class
+Utils\HighLightDriver.class
+Pages\CustomersList.class

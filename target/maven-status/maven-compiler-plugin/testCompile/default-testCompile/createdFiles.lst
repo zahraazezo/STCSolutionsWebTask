@@ -1,0 +1,6 @@
+TestCases\SortCustomers.class
+TestUtilities\TestHelper.class
+TestCases\TestOpenAccount.class
+Base\TestBase.class
+TestCases\SearchCustomer.class
+TestCases\TestAddNewCustomer.class
